@@ -1,0 +1,20 @@
+package builder;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CriadorDeJogoTest {
+
+	@Test
+	void test() {
+		assertEquals(0, 0);
+		assertEquals(1, 12);
+		assertEquals(1, 232);
+		
+	}
+	
+	@Test
+	void testBasicoMultiplicar
+
+}

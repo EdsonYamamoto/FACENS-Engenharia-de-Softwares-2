@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="dominio.Jogo"/>
+<fullyQualifiedTypeName name="dominio.Resultado"/>
+<fullyQualifiedTypeName name="builder.CriadorDeJogoTest"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="dominio.Participante"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+<fullyQualifiedTypeName name="builder.CriadorDeJogo"/>
+</qualifiedTypeNameHistroy>
